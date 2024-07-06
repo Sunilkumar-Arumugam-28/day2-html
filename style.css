@@ -1,0 +1,15 @@
+#b{
+    background: url("https://img.freepik.com/premium-photo/wireless-headphones-floating-isolated-neon-background-3d-icon-concept-earphones-device_409977-124.jpg?w=826");
+    background-size: cover;
+}
+
+h1{
+    color: white;
+    padding-top: 30px;
+}
+img{
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    padding: 15%;
+}
